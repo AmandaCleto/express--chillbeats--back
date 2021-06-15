@@ -1,0 +1,23 @@
+{
+  "name": "intrumental-control-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaCleto/InstrumentalControl-Back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaCleto/InstrumentalControl-Back/issues"
+  },
+  "homepage": "https://github.com/AmandaCleto/InstrumentalControl-Back#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
